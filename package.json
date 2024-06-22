@@ -1,0 +1,7 @@
+{
+  "name": "bun-compatibility",
+  "scripts": {
+    "check": "bin-script",
+    "permission": "chmod +x node_modules/.bin/bin-script"
+  }
+}
